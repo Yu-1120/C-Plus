@@ -1,3 +1,0 @@
-C:/Users/11868/Documents/GitHub/Cpp/C++base/DAY12/cmake-build-debug/CMakeFiles/DAY12.dir
-C:/Users/11868/Documents/GitHub/Cpp/C++base/DAY12/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/11868/Documents/GitHub/Cpp/C++base/DAY12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
