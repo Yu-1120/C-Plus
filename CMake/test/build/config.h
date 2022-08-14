@@ -1,0 +1,3 @@
+#define PROJECY_VERSION_MAJOR 1
+#define PROJECY_VERSION_MINOR 0
+#define CXK  "IKUN"

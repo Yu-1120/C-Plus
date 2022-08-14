@@ -1,0 +1,7 @@
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/CMakeFiles/Test.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/CMakeFiles/rebuild_cache.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/calc/CMakeFiles/addition.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/calc/CMakeFiles/subtract.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/calc/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/Cpp/CMake/test/build/calc/CMakeFiles/rebuild_cache.dir
