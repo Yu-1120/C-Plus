@@ -1,0 +1,3 @@
+C:/Users/11868/Documents/GitHub/C-Plus/C-base/C-baseTi/cmake-build-debug/CMakeFiles/C_everydayquestion.dir
+C:/Users/11868/Documents/GitHub/C-Plus/C-base/C-baseTi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/11868/Documents/GitHub/C-Plus/C-base/C-baseTi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
