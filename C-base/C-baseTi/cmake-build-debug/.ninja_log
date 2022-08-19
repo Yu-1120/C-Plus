@@ -1,3 +1,8 @@
 # ninja log v5
-585	768	6821887554117451	C_everydayquestion.exe	29f51bf6d666ccc7
+99	242	6822459497588285	C_everydayquestion.exe	b2d87d25a340f613
+3	110	6822446730749337	CMakeFiles/C_everydayquestion.dir/5-Ti.c.obj	38cba929e285673b
 1	582	6821887552312204	CMakeFiles/C_everydayquestion.dir/10-Ti.cpp.obj	462a39f25dbf7deb
+2	109	6822432077856414	CMakeFiles/C_everydayquestion.dir/4-Ti.c.obj	ec9b9b4106275e1e
+1	98	6822459496155965	CMakeFiles/C_everydayquestion.dir/6-Ti.c.obj	45db95593c021d57
+0	132	6822473130122878	CMakeFiles/C_everydayquestion.dir/7-Ti.c.obj	e30569a59fbe0491
+132	320	6822473131978015	C_everydayquestion.exe	415d4d644bbdf382

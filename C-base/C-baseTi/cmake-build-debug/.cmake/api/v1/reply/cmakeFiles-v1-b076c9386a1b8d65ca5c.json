@@ -15,7 +15,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-debug/CMakeFiles/3.22.3/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.3/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -45,7 +45,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"
+			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeCInformation.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -55,7 +55,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-CXX.cmake"
+			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Compiler/GNU-C.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -70,7 +70,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX.cmake"
+			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -94,7 +94,7 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
-			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+			"path" : "D:/CLion/CLion 2022.1/bin/cmake/win/share/cmake-3.22/Modules/Platform/Windows-GNU-C-ABI.cmake"
 		},
 		{
 			"isCMake" : true,

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.22)
-project(C_baseTi CXX)
-#project(C_baseTi C)
+#project(C_baseTi CXX)
+project(C_baseTi C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_everydayquestion
@@ -10,8 +10,8 @@ add_executable(C_everydayquestion
         #        4-Ti.c
         #        5-Ti.c
         #        6-Ti.c
-        #        7-Ti.c
+        7-Ti.c
         #        8-Ti.c
         #        9-Ti.c
-        10-Ti.cpp
+        #        10-Ti.cpp
         )
