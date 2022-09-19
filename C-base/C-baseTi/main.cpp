@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-#include <stdio.h>
 #include <stdlib.h>
 int two_ti()
 {
@@ -139,8 +137,12 @@ int danger() //一个有趣的C代码 (竟然还有声音。。。)
     getchar();
     return 0;
 }
-int main()
+int cite_pointer()
 {
-    four_ti();
+    int a = 10;
+    int *p1 = &a;
+    int &p2 = a;
+    printf("%d,%d\n", *p1, &p2);
     return 0;
 }
+// 全局变量和局部变量在内存中是否有区别？

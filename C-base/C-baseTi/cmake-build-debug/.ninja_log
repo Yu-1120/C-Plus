@@ -1,0 +1,9 @@
+# ninja log v5
+0	153	6844779324590100	CMakeFiles/cite_pointer.dir/cite_pointer.c.obj	b081825d82c3cea1
+154	390	6844779326920081	cite_pointer.exe	2147ad5307eb487b
+6	249	6844780300328293	CMakeFiles/cite_pointer.dir/cite_pointer.c.obj	b081825d82c3cea1
+250	511	6844780302948240	cite_pointer.exe	2147ad5307eb487b
+3	413	6844783988491099	CMakeFiles/cite_pointer.dir/cite_pointer.c.obj	b081825d82c3cea1
+414	802	6844783992201421	cite_pointer.exe	2147ad5307eb487b
+3	134	6844784869183601	CMakeFiles/cite_pointer.dir/cite_pointer.c.obj	b081825d82c3cea1
+134	340	6844784871201141	cite_pointer.exe	2147ad5307eb487b

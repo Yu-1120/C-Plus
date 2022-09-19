@@ -1,6 +1,7 @@
 #include <stdio.h>
 void change(int a);
 int max(int, int);
+
 int fun()
 {
     int a = 6;
@@ -48,10 +49,18 @@ int max(int x, int y)
     }
     return z;
 }
+//*************************
+int JingTai()
+{
 
+    static int count = 100; //事实上此赋值语句从来没有执行过
+    return count--;
+}
+int count = 1;
 int main()
 {
-    fun();
-
+    printf("global\t\tlocal static\n");
+    for (; count <= 10; ++count)
+        printf("%d\t\t%d\n", count, JingTai());
     return 0;
 }
