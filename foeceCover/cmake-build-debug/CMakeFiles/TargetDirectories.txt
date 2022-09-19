@@ -1,0 +1,4 @@
+E:/GitHub/autoUploadGithub/foeceCover/cmake-build-debug/CMakeFiles/mytest.dir
+E:/GitHub/autoUploadGithub/foeceCover/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/GitHub/autoUploadGithub/foeceCover/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/GitHub/autoUploadGithub/foeceCover/cmake-build-debug/CMakeFiles/mytest_autogen.dir
